@@ -1,0 +1,46 @@
+
+.center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+  padding: 10px;
+}
+
+
+.center-top {
+  position: absolute;
+  left: 50%;
+  top: 75%;
+  transform: translate(-50%, -50%);
+
+  padding: 10px;
+}
+
+.border-yellow {
+  border: 5px solid #FFFF00;
+}
+
+.border-grey {
+  border: 5px solid grey;
+}
+.border-darkgrey {
+  border: 5px solid darkgrey;
+}
+.startbackgroundcolor {
+  background-color: lightgrey;
+  height: 800px;
+}
+
+.greybox {
+  background-color: grey;
+}
+
+footer {
+  text-align: center;
+  background-color: grey;
+  padding: 10px;
+  margin: auto;
+  top: 15%
+}
